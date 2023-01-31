@@ -212,7 +212,7 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
             {/* Powered by thirdweb */}{" "}
-            <img
+      <img
         src="/logo.png"
         alt="thirdweb Logo"
         width={235}
@@ -323,12 +323,6 @@ const Home: NextPage = () => {
         )}
       </div>
       {/* Powered by thirdweb */}{" "}
-      <img
-        src="/logo.png"
-        alt="thirdweb Logo"
-        width={235}
-        className={styles.buttonGapTop}
-      />
     </div>
   );
 };
