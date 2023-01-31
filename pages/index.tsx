@@ -213,7 +213,8 @@ const Home: NextPage = () => {
     <div className={styles.container}>
       <div className={styles.mintInfoContainer}>
         {isLoading ? (
-          <p>Loading...</p>
+          <p>Collecting Blockchain Data. 
+             This may take up to 10sec...</p>
         ) : (
           <>
             <div className={styles.infoSide}>

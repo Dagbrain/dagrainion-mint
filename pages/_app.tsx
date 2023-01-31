@@ -11,7 +11,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <ThirdwebProvider desiredChainId={activeChainId}>
       <Head>
-        <title>Dagrainion NFT Drop Minting Page</title>
+        <title>Dagrainion NFT Minting Page</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
           name="description"
@@ -19,7 +19,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         />
         <meta
           name="keywords"
-          content="Thirdweb, thirdweb NFT drop, how to make thirdweb nft drop, how to make nft collection thirdweb"
+          content="Dagrainion Warriors NFT, NFT, Dagrainion Mint Page, Crypto"
         />
       </Head>
       <Component {...pageProps} />
