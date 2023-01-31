@@ -211,6 +211,13 @@ const Home: NextPage = () => {
 
   return (
     <div className={styles.container}>
+            {/* Powered by thirdweb */}{" "}
+            <img
+        src="/logo.png"
+        alt="thirdweb Logo"
+        width={235}
+        className={styles.buttonGapTop}
+      />
       <div className={styles.mintInfoContainer}>
         {isLoading ? (
           <p>Collecting Blockchain Data. 
