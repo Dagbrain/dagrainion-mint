@@ -81,7 +81,7 @@
   font-weight: 600;
   transition-property: background-color, border-color, color, fill, stroke,
     opacity, box-shadow, transform;
-  transition-duration: 200ms;
+  transition-duration: 500ms;
   height: 3rem;
   min-width: 3rem;
   font-size: 1rem;
@@ -100,6 +100,7 @@
 
 .mainButton:hover {
   opacity: 0.8;
+  color: rgba(114, 15, 206, 0.425);
 }
 
 .mintCompletionArea {
