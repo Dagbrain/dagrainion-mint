@@ -215,7 +215,7 @@ const Home: NextPage = () => {
       <img
         src="/logo.png"
         alt="thirdweb Logo"
-        width={235}
+        width={300}
         className={styles.buttonGapTop}
       />
       <div className={styles.mintInfoContainer}>
