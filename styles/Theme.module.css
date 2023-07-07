@@ -30,7 +30,7 @@
   gap: 2%;
   border: 1px solid var(--border-color);
   border-radius: 16px;
-  box-shadow: 15px 15px 15px 0 rgba(114, 15, 206, 0.425);
+  box-shadow: 15px 15px 15px 0 rgba(14, 245, 6, 0.425);
 }
 
 .infoSide {
@@ -55,7 +55,7 @@
 .image {
   width: 85%;
   border-radius: 16px;
-  box-shadow: 15px 15px 15px 0 rgba(114, 15, 206, 0.425);
+  box-shadow: 15px 15px 15px 0 rgba(14, 245, 6, 0.425);
 }
 
 .buttons {
@@ -101,7 +101,7 @@
 
 .mainButton:hover {
   opacity: 0.8;
-  color: rgba(114, 15, 206, 0.425);
+  color: rgba(14, 245, 6, 0.425);
 }
 
 .mintCompletionArea {
